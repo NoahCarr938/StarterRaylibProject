@@ -3,6 +3,19 @@
 
 int main(void)
 {
+    // Order to write code for headers
+    // If you intend for a class to be inherited a lot, then make it virtual ex. actor and component.
+    // Constructors
+    // Destructors
+
+    // Public Member Functions
+    // Protected Member Functions
+    // Private Member Functions
+    // 
+    // Getters and setters
+
+    // Public/Protected/Private 
+
     InitWindow(800, 450, "raylib [core] example - basic window");
 
     while (!WindowShouldClose())
